@@ -1,4 +1,4 @@
-# PVU bot
+# PVU bot бла бла бла
 [ [Channel](https://t.me/Cum_Insider) ]
 
 - [Запуск под Windows](#Запуск-под-Windows)
